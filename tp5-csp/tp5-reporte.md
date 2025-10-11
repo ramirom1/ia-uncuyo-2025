@@ -110,7 +110,7 @@ Las metaheurísticas y métodos estocásticos son ultra-rápidos cuando aciertan
 
 ## Gráficos
 
-![Grafico de cajas y extensiones de cantidad de nodos](nodes_boxplots.png)
-![Grafico de cajas y extensiones de tiempo empleado](time_boxplots.png)
+![Grafico de cajas y extensiones de cantidad de nodos](images/nodes_boxplots.png)
+![Grafico de cajas y extensiones de tiempo empleado](images/time_boxplots.png)
 
 Para poder apreciar mejor el comportamiento de cada caso, se agregan los graficos por separado.
