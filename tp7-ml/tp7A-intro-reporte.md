@@ -27,19 +27,19 @@ ciertos conjuntos, pero para otros actuaria de manera muy distinta.
 
 - Problema: Regresión
 - Interés: Inferir
-- n = 500, p = 4
+- n = 500, p = 3
 
 ### b) Se está considerando lanzar un nuevo producto y se desea saber si será un éxito o un fracaso. Se recolectan datos de 20 productos similares que fueron lanzados previamente. Para cada producto se ha registrado si fue un éxito o un fracaso, el precio cobrado por el producto, el presupuesto de marketing, el precio de la competencia, y otras diez variables.
 
 - Problema: Clasificación
 - Interés: Predecir
-- n = 20, p = 14 
+- n = 20, p = 13
 
 ### c) Se tiene interes en predecir el % de cambio en el tipo de cambio USD/Euro en relación a los cambios semanales en los mercados de valores mundiales. Para eso se recolectan datos semanalmente durante todo el 2021. Para cada semana se registran el % de cambio de USD/Euro, el % de cambio en el mercado estadounidense, el % de cambio en el mercado británico, y el % de cambio en el mercado alemán.
 
 - Problema: Regresión
 - Interés: Predecir
-- n = 48, p = 4 
+- n = 52, p = 3
 
 ## 3. ¿Cuáles son las ventajas y desventajas de un enfoque muy flexible (versus uno menos flexible) para la regresión o clasificación? ¿Bajo qué circunstancias podría preferirse un enfoque más flexible a uno menos flexible? ¿Cuándo podría preferirse un enfoque menos flexible?
 
